@@ -1,0 +1,14 @@
+layout_spectrum: 0.6667475993745029
+typography_spectrum: 0.2530678252223879
+color:
+  brandStrength: 0.9817455201409757
+  lightness: 0.7558016621042043
+  saturation: 0.3141564077232033
+  rhythmicContrast: 0.2954618935473263
+  brandColors:
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+name: iVideographer
